@@ -19,8 +19,8 @@ This project showcases how SQL can be used to extract valuable business insights
 
 ## 📂 Files
 
-- `Retail_Business_Insights_Using_SQL.pdf` – Final presentation
-- `sql_queries.sql` – All solution queries
+- `SQL_Retail_Project.pdf` – Final presentation 
+- `SQL_queries.sql` – All solution queries
 - `README.md` – Project documentation
 
 ## 📬 Contact
