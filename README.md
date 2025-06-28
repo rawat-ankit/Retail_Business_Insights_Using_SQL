@@ -26,6 +26,5 @@ This project showcases how SQL can be used to extract valuable business insights
 ## 📬 Contact
 
 👤 **Ankit Rawat**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ankitrawat-ds/)  
-💻 [GitHub](https://github.com/rawat-ankit)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ankitrawat-ds/)   
 📧 [E-mail](ankitrawat.ds@gmail.com)
