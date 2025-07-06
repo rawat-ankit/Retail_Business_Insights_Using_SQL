@@ -30,7 +30,7 @@ Now extended with an interactive **Power BI dashboard**, fully connected to the 
 - `SQL_queries.sql` – All SQL solution queries and view definitions  
 - `SQL_Retail_Project.pdf` – Final presentation  
 - `Retail_Insights_Dashboard.pbix` – Power BI Dashboard connected to SQL views ✅  
-- `dashboard_screenshot.png` – Preview of the dashboard  
+- `Tables.zip` – All the tables  
 - `README.md` – Project documentation (this file)
 
 ---
